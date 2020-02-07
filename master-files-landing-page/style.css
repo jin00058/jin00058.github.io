@@ -1,0 +1,68 @@
+
+.PIC1{
+    width: 6%;
+    padding: 50px 50px;
+}
+
+
+
+body{
+    background: #f7f7ff url(../master-files-landing-page/images/bg-image/scooter.svg);
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+.Want{
+    font-size: 4.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 40%;
+    margin:50px 50px 0;
+
+}
+
+.Start{
+    font-size: 1.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width:35%;
+    margin-left: 50px;
+}
+
+form{
+    float:right;
+    background-color: white;
+    padding: 10px 30px 25px 30px;
+    margin: 0 100px;
+    border:1px solid white;
+    border-radius: 14px 14px;
+    box-shadow: 2px 2px 6px #666;
+
+}
+
+.Now{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    margin:10px 10px 5px 10px;
+}
+
+.Enter{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 10px 10px 5px 10px;
+}
+
+.first-name{
+    border: 2px solid white;
+    border-radius: 0 14px;
+}
+
+
+
+
+
+.yellow{
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    background-color: #fffd8c;
+}
